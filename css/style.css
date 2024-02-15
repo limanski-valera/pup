@@ -321,6 +321,7 @@ h6 {
 }
 
 .main-block__logo {
+  display: block;
   max-width: 21.875rem;
 }
 
