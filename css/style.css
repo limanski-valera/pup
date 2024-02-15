@@ -689,7 +689,6 @@ h6 {
   .main-block__container {
     -ms-grid-columns: 40% 1fr;
     grid-template-columns: 40% 1fr;
-    row-gap: 2.5rem;
     -webkit-column-gap: 2.1875rem;
        -moz-column-gap: 2.1875rem;
             column-gap: 2.1875rem;
@@ -746,6 +745,14 @@ h6 {
   .socials__link {
     width: 3.125rem;
     height: 3.125rem;
+  }
+
+  .main-block__info {
+    margin-bottom: 3.125rem;
+  }
+
+  .how-it-work__video iframe {
+    max-height: 18.75rem;
   }
 
   .item-how-it-work__text {
